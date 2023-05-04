@@ -219,3 +219,7 @@ header a {
     border: none;
     cursor: pointer;
 }
+
+button {
+    margin-right: 10px;
+}
