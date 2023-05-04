@@ -13,3 +13,4 @@
 - Only when your HTML and CSS lint check is completed, get started to git, link to your remote repository, commit changes, push changes. 
 - After changes have been pushed, make a pull request between the feature branch and the main branch.
 - Submit your code (REPOSITORY URL) through our channel on Slack.
+ https://zoba1.github.io/lesson_1_and_2_final_task_1_Chizoba_Adigwe/
